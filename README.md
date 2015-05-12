@@ -10,6 +10,7 @@ To link to images, checkout the 'Tutorial' branch and push your images to the im
 - [Windows 10](http://windows.microsoft.com/en-us/windows/preview-iso)
 - [Visual Studio 2015](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx)
 - [Developer License](https://msdn.microsoft.com/en-us/library/windows/apps/hh974578.aspx)
+- [WinJS](http://try.buildwinjs.com/#get)
 
 
 ## Steps
