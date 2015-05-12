@@ -1,10 +1,7 @@
-# DemoTemplate
+# Windows 10 Web Platform Tutorials
 
 ## Introduction
-Creating JavaScript Apps for Windows 10.
-To link to images, checkout the 'Tutorial' branch and push your images to the images folder there. Then link to it here:
-![Alt text](https://raw.githubusercontent.com/alxlu/DemoTemplate/Tutorial/images/SampleImage.png)
-
+Interested in developing JavaScript Apps for Windows 10? Below are some tutorials to get you started!
 
 ## Prerequisites
 - [Windows 10](http://windows.microsoft.com/en-us/windows/preview-iso)
@@ -12,19 +9,24 @@ To link to images, checkout the 'Tutorial' branch and push your images to the im
 - [Developer License](https://msdn.microsoft.com/en-us/library/windows/apps/hh974578.aspx)
 - [WinJS](http://try.buildwinjs.com/#get)
 
+## Tutorials
 
-## Steps
+### Hosted WebApps and Packaged WebApps
+- [Creating a Hosted WebApp from Scratch](github.com)
+- [Calling Universal Windows APIs From Remote JS in a Hosted WebApp](github.com)
+- [Cortana Integration for Hosted WebApps](github.com)
+- [Multiple Authetication Providers for Hosted WebApps](github.com)
+- [WebView APIs in Packaged WebApps](github.com)
 
-### Step 1
-This is a block of code:
-```javascript
-console.log('test');
-```
-This is a span of `code`
+### Web Workflows
+- [Gulp Workflows for Windows Apps](github.com)
+- [Create a Windows 10 App using Angular](github.com)
+- [Create a Windows 10 App using React](github.com)
 
-## Related Tutorials
-- [Building a JavaScript App on Windows 10 using AngularJS](https://bing.com)
-- [Building a JavaScript App on Windows 10 using React](https://bing.com)
-- [Building a JavaScript App on Windows 10 using Famo.us](https://bing.com)
-
-## Additional Resources
+### WinJS
+- [Quickly Build a WebApp using WinJS, Angular, and Cordova](github.com)
+- [Building Responsive WebApps using WinJS](github.com)
+- [Buildig Xbox Apps using WinJS](github.com)
+- [Creating Universal Windows Apps using WinJS](github.com)
+- [Using WinJS Controls in a React App](github.com)
+- [Using WinJS Controls in an Angular App](github.com)
