@@ -16,9 +16,11 @@ To link to images, checkout the 'Tutorial' branch and push your images to the im
 ## Steps
 
 ### Step 1
+This is a block of code:
 ```javascript
 console.log('test');
 ```
+This is a span of `code`
 
 ## Related Tutorials
 - [Building a JavaScript App on Windows 10 using AngularJS](https://bing.com)
