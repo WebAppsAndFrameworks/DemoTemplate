@@ -1,7 +1,10 @@
 # DemoTemplate
 
 ## Introduction
-Creating JavaScript Apps for Windows 10
+Creating JavaScript Apps for Windows 10.
+To link to images, checkout the 'Tutorial' branch and push your images to the images folder there. Then link to it here:
+![Alt text](https://raw.githubusercontent.com/alxlu/DemoTemplate/Tutorial/images/SampleImage.png)
+
 
 ## Prerequisites
 - [Windows 10](http://windows.microsoft.com/en-us/windows/preview-iso)
